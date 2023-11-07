@@ -1,13 +1,9 @@
-# Sample Hardhat Project
+# nft marketplace contract 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basic nftmarketplace. It comes with a hardhat config files, a test for that contract, and a script that deploys that contract.
 
 Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+i have build build this  project as an assignment 
+this project has an nftmarketplace contract which has some fuction those must be needed for a nft marketplace.
+thats enough till now ..
